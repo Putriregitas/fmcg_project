@@ -1,0 +1,46 @@
+SKU_CODE,product_name,Brand ,category,sub_category,PackSize_ml
+SKU001,Emina Hydrating Creamy Facial Wash,Emina,skincare,Facial Wash,50
+SKU002,Wardah Lightening Gentle Cleanser,Wardah,skincare,Facial Wash,120
+SKU003,Make Over Hydrating Creamy Facial Wash,Make Over,skincare,Facial Wash,50
+SKU004,Emina Hydrating Face Toner,Emina,skincare,Toner,60
+SKU005,Wardah Pore Refining Toner,Wardah,skincare,Toner,60
+SKU006,Make Over Pore Refining Toner,Make Over,skincare,Toner,100
+SKU007,Emina Bright Stuff Face Serum,Emina,skincare,Serum,20
+SKU008,Wardah Bright Stuff Face Serum,Wardah,skincare,Serum,20
+SKU009,Make Over Hyaluronic Boost Serum,Make Over,skincare,Serum,15
+SKU010,Emina Hydrating Gel Moisturizer,Emina,skincare,Moisturizer,30
+SKU011,Wardah Bright Stuff Moisturizing Cream,Wardah,skincare,Moisturizer,50
+SKU012,Make Over Barrier Repair Cream,Make Over,skincare,Moisturizer,30
+SKU013,Emina Daily Protection Sunscreen SPF30,Emina,skincare,Sunscreen,30
+SKU014,Wardah UV Shield Sunscreen SPF50,Wardah,skincare,Sunscreen,50
+SKU015,Make Over UV Shield Sunscreen SPF50,Make Over,skincare,Sunscreen,30
+SKU016,Make Over Perfect Matte Loose Powder,Make Over,makeup,Loose Powder,10
+SKU017,Maybelline Oil Control Loose Powder,Maybelline,makeup,Loose Powder,20
+SKU018,L'Oreal Oil Control Loose Powder,L'Oreal,makeup,Loose Powder,20
+SKU019,Make Over Smooth Cover Compact Powder,Make Over,makeup,Compact Powder,12
+SKU020,Maybelline Two Way Cake Powder,Maybelline,makeup,Compact Powder,12
+SKU021,L'Oreal Two Way Cake Powder,L'Oreal,makeup,Compact Powder,8
+SKU022,Make Over Powerstay Liquid Foundation,Make Over,makeup,Foundation,25
+SKU023,Maybelline Powerstay Liquid Foundation,Maybelline,makeup,Foundation,30
+SKU024,L'Oreal Fit Me Liquid Foundation,L'Oreal,makeup,Foundation,25
+SKU025,Make Over Instant Age Rewind Concealer,Make Over,makeup,Concealer,8
+SKU026,Maybelline Cover Perfection Concealer,Maybelline,makeup,Concealer,8
+SKU027,L'Oreal Instant Age Rewind Concealer,L'Oreal,makeup,Concealer,8
+SKU028,Make Over Face Sculpting Contour Stick,Make Over,makeup,Contour,6
+SKU029,Maybelline Pro Contour Kit,Maybelline,makeup,Contour,10
+SKU030,L'Oreal Face Sculpting Contour Stick,L'Oreal,makeup,Contour,6
+SKU031,Make Over Master Chrome Highlighter,Make Over,makeup,Highlighter,10
+SKU032,Maybelline Master Chrome Highlighter,Maybelline,makeup,Highlighter,10
+SKU033,L'Oreal Master Chrome Highlighter,L'Oreal,makeup,Highlighter,10
+SKU034,Make Over Creamy Matte Lip Cream,Make Over,makeup,Lip Cream,8
+SKU035,Maybelline Creamy Matte Lip Cream,Maybelline,makeup,Lip Cream,5
+SKU036,L'Oreal Creamy Matte Lip Cream,L'Oreal,makeup,Lip Cream,5
+SKU037,Sunsilk Total Damage Care Shampoo,Sunsilk,haircare,Shampoo,170
+SKU038,Dove Hair Fall Control Shampoo,Dove,haircare,Shampoo,135
+SKU039,Pantene Total Damage Care Shampoo,Pantene,haircare,Shampoo,200
+SKU040,Sunsilk Intense Repair Conditioner,Sunsilk,haircare,Conditioner,70
+SKU041,Dove Intense Repair Conditioner,Dove,haircare,Conditioner,180
+SKU042,Pantene Smooth & Silky Conditioner,Pantene,haircare,Conditioner,180
+SKU043,Sunsilk Intensive Hair Mask,Sunsilk,haircare,Hair Mask,150
+SKU044,Dove Keratin Repair Hair Mask,Dove,haircare,Hair Mask,200
+SKU045,Pantene Keratin Repair Hair Mask,Pantene,haircare,Hair Mask,150
